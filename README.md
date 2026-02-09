@@ -39,7 +39,7 @@ Depois:
 
 Instalação:
 
-  pip install requests
+    pip install requests
 
 
 🧠 Fingerprints (obrigatório)

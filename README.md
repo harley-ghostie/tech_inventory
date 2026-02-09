@@ -42,7 +42,7 @@ Instalação:
     pip install requests
 
 
-🧠 Fingerprints (obrigatório)
+##🧠 Fingerprints (obrigatório)
 
 O script precisa de fingerprints de tecnologia:
 
@@ -74,10 +74,12 @@ Estrutura esperada:
 
 🚀 Uso rápido
 
-Crie urls.txt:
+##Crie urls.txt:
 
   https://example.com
+  
   https://app.example.com
+  
   https://portal.example.com
 
 ## Execute:

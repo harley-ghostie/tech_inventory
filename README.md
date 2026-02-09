@@ -38,8 +38,9 @@ Depois:
 - `requests`
 
 Instalação:
-```bash
-pip install requests
+
+  pip install requests
+
 
 🧠 Fingerprints (obrigatório)
 
